@@ -1,0 +1,2 @@
+[web]
+sample_webserver ansible_host=123.123.123.123 ansible_ssh_user=root ansible_ssh_port=22
